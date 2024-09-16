@@ -18,6 +18,7 @@ Ele permite o gerenciamento de competições, inscrições de atletas, alocaçã
 ## Diagramas UML
 
 ### Diagrama de Caso de Uso
+![diagrama-de-casos-de-uso](https://github.com/user-attachments/assets/74097f2e-5dd0-4f81-9f1c-d3dec3c133b6)
 
 ### Diagrama de Classes e Pacotes
 ![Package Diagram](https://github.com/user-attachments/assets/c27e333e-cbfd-4a96-b113-4f2bf422f1a6)
