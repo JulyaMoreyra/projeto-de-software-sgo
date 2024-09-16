@@ -57,6 +57,7 @@ Ele permite o gerenciamento de competições, inscrições de atletas, alocaçã
 ![diagrama-de-casos-de-uso](https://github.com/user-attachments/assets/74097f2e-5dd0-4f81-9f1c-d3dec3c133b6)
 
 ### Diagrama de Classes 
+![Diagrama de Classe](https://github.com/user-attachments/assets/fb887e20-f8ed-4345-9268-5229ec643049)
 
 
 ### Diagrama de Pacotes
