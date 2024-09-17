@@ -40,7 +40,7 @@ Ele permite o gerenciamento de competições, inscrições de atletas, alocaçã
 * O sistema deve garantir que os dados inseridos, como resultados e inscrições, sejam armazenados corretamente e estejam disponíveis a qualquer momento.
 
 #### RNF02: Escalabilidade
-* O sistema deve ser escalável, suportando um grande número de competições, atletas e países conforme o evento cresce.
+* O sistema deve ser escalável, suportando 100 competições, atletas e países conforme o evento cresce.
 
 #### RNF03: Segurança
 * O sistema deve garantir que apenas usuários autorizados possam cadastrar competições, registrar resultados e gerar relatórios, implementando autenticação e controle de acesso.
