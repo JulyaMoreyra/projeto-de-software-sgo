@@ -66,4 +66,5 @@ Ele permite o gerenciamento de competições, inscrições de atletas, alocaçã
 ### Diagrama de Componentes
 
 ### Diagrama de Implantação
+![SGO drawio](https://github.com/user-attachments/assets/7b96ef7c-7940-45da-9b15-aeac9b6d6c56)
 
